@@ -38,6 +38,8 @@ student_dashboard/
 ├── model.pkl # Trained ML model
 ├── database.db # SQLite database
 
+<img width="1919" height="1061" alt="image" src="https://github.com/user-attachments/assets/d37336e9-21e6-4924-a82b-5b37df8f932e" />
+<img width="1782" height="450" alt="image" src="https://github.com/user-attachments/assets/2cf5afea-5194-4db5-a903-d50bf39db516" />
 ---
 
 ## ⚙️ How to Run the Project
@@ -48,8 +50,7 @@ pip install -r requirements.txt
 python train_model.py
 streamlit run app.py
 PICTURES OF THIS PROOJECT
-<img width="1919" height="1061" alt="image" src="https://github.com/user-attachments/assets/d37336e9-21e6-4924-a82b-5b37df8f932e" />
-<img width="1782" height="450" alt="image" src="https://github.com/user-attachments/assets/2cf5afea-5194-4db5-a903-d50bf39db516" />
+
 
 
 
